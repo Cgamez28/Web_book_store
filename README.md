@@ -3,6 +3,8 @@ This repository hosts the documentation, code, paper, technical report and poste
 
 # User Stories
 
+1. **As a User**, I want to log in to my account, so i access the application's features.
+
 ## Customer Stories
 
 1. **As a customer**, I want to see a list of available books, so I can choose which one to buy.
