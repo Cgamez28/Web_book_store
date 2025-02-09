@@ -1,0 +1,7 @@
+.ENV
+src/repositories/__pycache__
+src/services/__pycache__
+src/controllers/__pycache__
+src/__pycache__
+src/books.json
+bookstore_env/
